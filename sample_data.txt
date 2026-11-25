@@ -1,0 +1,5 @@
+Python is a popular programming language.
+Python is used in Artificial Intelligence and Machine Learning.
+Machine Learning helps computers learn from data.
+LangChain is a framework for building applications using language models.
+AI agents can use tools to perform different tasks.

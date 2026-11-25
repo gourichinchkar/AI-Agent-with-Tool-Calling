@@ -1,0 +1,30 @@
+AI AGENT WITH TOOL CALLING - SAMPLE EXECUTIONS
+
+Test 1: Calculator Tool
+
+User Input:
+Calculate 125 multiplied by 8 using the calculator tool.
+
+Tool Selected:
+calculator
+
+Output:
+125 multiplied by 8 is 1000.
+
+Result:
+Successful
+
+
+Test 2: File Lookup Tool
+
+User Input:
+Search the sample_data.txt file for LangChain.
+
+Tool Selected:
+file_lookup
+
+Output:
+LangChain is a framework for building applications using language models.
+
+Result:
+Successful
